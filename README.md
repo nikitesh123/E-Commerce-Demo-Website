@@ -19,7 +19,7 @@ This project is a e-commerce site. It showcases:
 ---
 
 ## 🌐 Demo
-[Live Demo of the Website](https://your-username.github.io/your-repository-name)
+[Live Demo of the Website]([https://your-username.github.io/your-repository-name](https://nikitesh123.github.io/E-Commerce-Demo-Website/))
 
 ---
 
@@ -35,4 +35,4 @@ This project is a e-commerce site. It showcases:
 To run the project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone [https://github.com/your-username/your-repository-name.git](https://nikitesh123.github.io/E-Commerce-Demo-Website/)
