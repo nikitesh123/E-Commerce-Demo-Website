@@ -19,7 +19,7 @@ This project is a e-commerce site. It showcases:
 ---
 
 ## 🌐 Demo
-[Live Demo of the Website]([https://your-username.github.io/your-repository-name](https://nikitesh123.github.io/E-Commerce-Demo-Website/))
+[Live Demo of the Website] https://nikitesh123.github.io/E-Commerce-Demo-Website/
 
 ---
 
